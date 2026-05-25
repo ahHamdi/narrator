@@ -5,8 +5,11 @@ probing/
 __pycache__/
 *.pyc
 *.pth
-*.pkl
+# *.pkl
 *.npy
 .env
 venv/
 narrativeBench/
+data/cache/*.pkl
+!data/prediction_matrix.pkl
+!data/prediction_matrix_np1.pkl
