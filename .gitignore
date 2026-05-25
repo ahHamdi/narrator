@@ -1,0 +1,12 @@
+data/raw/
+data/cache/
+runs/
+probing/
+__pycache__/
+*.pyc
+*.pth
+*.pkl
+*.npy
+.env
+venv/
+narrativeBench/
